@@ -1,12 +1,14 @@
-h2.intro {
+.intro {
   text-align: center;
+  color: salmon;
+}
+.intro h2{
   font-family: cursive;
 }
-p.intro {
-  text-align: center;
+.intro p {
   font-style: italic;
 }
-img.intro {
+.intro img {
   display: block;
   margin: 0 auto;
   width: auto;
